@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+h1 {
+  font-size: 4rem;
+  margin: 0;
+}
+
+h2 {
+  margin-top: 0.5rem;
+}
+
+a {
+text-decoration: underline !important
+}
